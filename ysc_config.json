@@ -1,0 +1,80 @@
+{
+  "urls": [
+    {
+      "name": "💎无邪┃短剧专线",
+      "url": "http://box.ufuzi.com/tv/qq/短剧频道/api.json"
+    },
+    {
+      "name": "俊佬",
+      "url": "http://home.jundie.top:81/top98.json"
+    },
+    {
+      "name": "kstore-wex",
+      "url": "https://9280.kstore.space/wex.json"
+    },
+    {
+      "name": "动漫城",
+      "url": "https://www.yingm.cc/dm/dm.json"
+    },
+    {
+      "name": "菜妮💜线路",
+      "url": "http://liucn.cc/box/dc/lns/lns.json"
+    },
+    {
+      "name": "🚀无邪┃王二小线路",
+      "url": "http://tvbox.王二小放牛娃.top"
+    },
+    {
+      "name": "🚀无邪┃摸鱼线路",
+      "url": "http://我不是.摸鱼儿.cc"
+    },
+    {
+      "name": "🚀无邪┃摸鱼备用",
+      "url": "http://fish.y456y.com"
+    },
+    {
+      "name": "🚀无邪┃王二小备用",
+      "url": "https://9280.kstore.vip/newwex.json"
+    },
+    {
+      "name": "dxawi",
+      "url": "https://dxawi.github.io/0/0.json"
+    },
+    {
+      "name": "放牛娃💜线路",
+      "url": "http://tv.999888987.xyz"
+    },
+    {
+      "name": "高天流云",
+      "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"
+    },
+    {
+      "name": "💎一木线路",
+      "url": "https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/%E4%B8%80%E6%9C%A8%E8%87%AA%E7%94%A8.json"
+    },
+    {
+      "name": "网盘💜线路",
+      "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-Dx.json"
+    },
+    {
+      "name": "🏄️业余线路",
+      "url": "https://raw.githubusercontent.com/yydfys/yydf/main/yydf/yydfjk.json"
+    },
+    {
+      "name": "菜妮丝💜线路",
+      "url": "https://tv.xn--yhqu5zs87a.top"
+    },
+    {
+      "name": "🚀蜂蜜线路",
+      "url": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json"
+    },
+    {
+      "name": "🚀无邪┃肥猫线路",
+      "url": "http://肥猫.net/tv"
+    },
+    {
+      "name": "欧歌",
+      "url": "https://play.iptv365.org/欧歌/api.json"
+    }
+  ]
+}
