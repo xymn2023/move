@@ -1,408 +1,60 @@
 {
   "urls": [
     {
-      "name": "🚀游魂┃摸鱼",
-      "url": "https://www.iyouhun.com/tv/my"
-    },
-    {
-      "name": "👼游魂┃儿童专属",
-      "url": "https://www.iyouhun.com/tv/et"
-    },
-    {
-      "name": "🚀游魂┃PG",
-      "url": "https://www.iyouhun.com/tv/pg"
-    },
-    {
-      "name": "🚀游魂┃牛播一",
-      "url": "https://www.iyouhun.com/tv/nb"
-    },
-    {
-      "name": "🚀游魂┃小米",
-      "url": "https://www.iyouhun.com/tv/xiaomi"
-    },
-    {
-      "name": "🚀游魂┃东篱",
-      "url": "https://www.iyouhun.com/tv/dongli"
-    },
-    {
-      "name": "🚀游魂┃哈基米",
-      "url": "https://www.iyouhun.com/tv/hjm"
-    },
-    {
-      "name": "🚀游魂┃嗷呜",
-      "url": "https://www.iyouhun.com/tv/aowu"
-    },
-    {
-      "name": "🎨游魂┃动漫城",
-      "url": "https://www.iyouhun.com/tv/dmc"
-    },
-    {
-      "name": "🚀游魂┃肥猫",
-      "url": "https://www.iyouhun.com/tv/fm"
-    },
-    {
-      "name": "🚀游魂┃王二小(新)",
-      "url": "https://www.iyouhun.com/tv/newwex"
-    },
-    {
-      "name": "🎥游魂┃短剧",
-      "url": "https://www.iyouhun.com/tv/dj"
-    },
-    {
-      "name": "🚀游魂┃王二小",
-      "url": "https://www.iyouhun.com/tv/wex"
-    },
-    {
-      "name": "🚀游魂┃多多",
-      "url": "https://www.iyouhun.com/tv/duo"
-    },
-    {
-      "name": "🚀游魂┃南风",
-      "url": "https://www.iyouhun.com/tv/nf"
-    },
-    {
-      "name": "🚀游魂┃香雅情线路",
-      "url": "https://www.iyouhun.com/tv/xyq"
-    },
-    {
-      "name": "🚀游魂┃饭太硬",
-      "url": "https://www.iyouhun.com/tv/fty"
-    },
-    {
-      "name": "📛挺好分享",
-      "url": "https://ztha.top/TVBox/thdjk.json"
-    },
-    {
-      "name": "🚀游魂┃潇洒线路",
-      "url": "https://www.iyouhun.com/tv/xs"
-    },
-    {
-      "name": "🚀游魂┃真心",
-      "url": "https://www.iyouhun.com/tv/zx"
-    },
-    {
-      "name": "小马📚在线",
-      "url": "http://szyyds.cn/tv/x.json"
-    },
-    {
-      "name": "💖月光宝盒家庭版〔多条线路〕",
-      "url": "https://jihulab.com/ygbh1/box/-/raw/main/月光宝盒"
-    },
-    {
-      "name": "FongMi",
-      "url": "https://gh-proxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json"
-    },
-    {
-      "name": "月光📚在线",
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/guot55/yg/main/max.json"
-    },
-    {
-      "name": "GitHub·tvbox·api",
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/api.json"
-    },
-    {
-      "name": "心魔📚在线",
-      "url": "https://gh-proxy.com/raw.githubusercontent.com/yw88075/tvbox/main/yw.json"
-    },
-    {
-      "name": "熊匠·19",
-      "url": "https://gh-proxy.com/raw.githubusercontent.com/xiongjian83/TvBox/main/19.json"
-    },
-    {
-      "name": "饭太硬2",
-      "url": "http://www.饭太硬.net/tv"
-    },
-    {
-      "name": "GitHub·tvbox·jsm",
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/jsm.json"
-    },
-    {
-      "name": "anbola",
-      "url": "https://gh-proxy.com/raw.githubusercontent.com/anbola/tvbox/main/tvbox_multisource.json"
-    },
-    {
-      "name": "每日合并",
-      "url": "https://gh-proxy.com/raw.githubusercontent.com/hebijunge/tvbox-config/main/tvbox_recommended.json"
-    },
-    {
-      "name": "🍨饭硬专线",
-      "url": "http://www.xn--sss604efuw.cc/tv"
-    },
-    {
-      "name": "🚀无邪┃饭太硬线路",
-      "url": "http://www.xn--sss604efuw.net/tv"
-    },
-    {
-      "name": "qist·9918",
-      "url": "https://gh-proxy.com/raw.githubusercontent.com/qist/tvbox/master/9918.json"
-    },
-    {
-      "name": "KStore·aowu",
-      "url": "https://9763.kstore.vip/aowu.json"
-    },
-    {
-      "name": "qist·99188",
-      "url": "https://gh-proxy.com/raw.githubusercontent.com/qist/tvbox/master/99188.json"
-    },
-    {
-      "name": "青柠·box",
-      "url": "https://gh-proxy.com/raw.githubusercontent.com/cluntop/tvbox/main/box.json"
-    },
-    {
       "name": "🚀小马线路",
       "url": "https://szyyds.cn/tv/x.json"
-    },
-    {
-      "name": "青龙",
-      "url": "https://6758.kstore.space/1.json"
-    },
-    {
-      "name": "🚀无邪┃王二小备用",
-      "url": "https://9280.kstore.vip/newwex.json"
-    },
-    {
-      "name": "青柠·jsm",
-      "url": "https://gh-proxy.com/raw.githubusercontent.com/cluntop/tvbox/main/jsm.json"
-    },
-    {
-      "name": "青柠·aa",
-      "url": "https://gh-proxy.com/raw.githubusercontent.com/cluntop/tvbox/main/aa.json"
-    },
-    {
-      "name": "小凯📚在线",
-      "url": "https://jihulab.com/jyqhkd/kd/-/raw/main/kai.json"
-    },
-    {
-      "name": "GitHub·dongliTV·api",
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/chitue/dongliTV/main/api.json"
-    },
-    {
-      "name": "😹玄珠",
-      "url": "https://jihulab.com/xuanzhuapp/xzys/-/raw/main/xzvip.json"
-    },
-    {
-      "name": "熊匠·X",
-      "url": "https://gh-proxy.com/raw.githubusercontent.com/xiongjian83/TvBox/main/X.json"
-    },
-    {
-      "name": "GitHub·6·000",
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/000.json"
-    },
-    {
-      "name": "🚀无邪┃儿童专线",
-      "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer"
-    },
-    {
-      "name": "星火·4K",
-      "url": "http://xhztv.top/4k.json"
-    },
-    {
-      "name": "😹游魂┃余生",
-      "url": "https://www.iyouhun.com/tv/ys"
-    },
-    {
-      "name": "南风📚在线",
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"
-    },
-    {
-      "name": "GitHub·tvbox·fty",
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/fty.json"
-    },
-    {
-      "name": "青柠·fun",
-      "url": "https://gh-proxy.com/raw.githubusercontent.com/cluntop/tvbox/main/fun.json"
-    },
-    {
-      "name": "🌵摸鱼线路",
-      "url": "http://我不是.摸鱼儿.top"
-    },
-    {
-      "name": "动漫城·dm",
-      "url": "https://www.yingm.cc/dm/dm.json"
-    },
-    {
-      "name": "🚀讴歌线路",
-      "url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌"
-    },
-    {
-      "name": "SVIP📚在线",
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xmbjm/svip/refs/heads/main/svip.json"
-    },
-    {
-      "name": "🚀游魂┃高天流云",
-      "url": "https://www.iyouhun.com/tv/gtly"
-    },
-    {
-      "name": "💎无邪┃香雅晴线路",
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json"
-    },
-    {
-      "name": "dxawi",
-      "url": "https://dxawi.github.io/0/0.json"
-    },
-    {
-      "name": "🚀小盒子",
-      "url": "http://xhztv.top/xhz"
-    },
-    {
-      "name": "qist·0821",
-      "url": "https://gh-proxy.com/raw.githubusercontent.com/qist/tvbox/master/0821.json"
-    },
-    {
-      "name": "寳盒",
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/guot55/yg/main/pg/bh.json"
-    },
-    {
-      "name": "🚀高天流云",
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"
-    },
-    {
-      "name": "红果",
-      "url": "https://api.hgyx.vip/hgyx.json"
-    },
-    {
-      "name": "CandyMu📚在线",
-      "url": "https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json"
-    },
-    {
-      "name": "欧歌",
-      "url": "https://play.iptv365.org/欧歌/api.json"
-    },
-    {
-      "name": "💖老刘备〔多条线路〕",
-      "url": "https://raw.liucn.cc/box/m.json"
-    },
-    {
-      "name": "tv",
-      "url": "https://tv.xn--yhqu5zs87a.top/"
-    },
-    {
-      "name": "tv·svip",
-      "url": "https://tv.xn--11x555b.top/svip"
-    },
-    {
-      "name": "🐟 摸 鱼",
-      "url": "http://xn--ihqu10cn4c.xn--v4q818bf34b.top/"
-    },
-    {
-      "name": "kjsc0310·jk9",
-      "url": "https://kjsc0310.github.io/tvy/jk9.json"
-    },
-    {
-      "name": "小米",
-      "url": "https://play.iptv365.org/小米/api.json"
-    },
-    {
-      "name": "🌱dxawi线路",
-      "url": "http://dxawi.github.io/0/0.json"
-    },
-    {
-      "name": "🚀无邪┃摸鱼备用",
-      "url": "http://fish.y456y.com/"
-    },
-    {
-      "name": "🎶讴歌〔多条线路〕",
-      "url": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2"
-    },
-    {
-      "name": "🚀无邪┃摸鱼线路",
-      "url": "http://xn--ihqu10cn4c.xn--v4q818bf34b.cc/"
-    },
-    {
-      "name": "Clun📚在线",
-      "url": "https://clun.top/box.json"
-    },
-    {
-      "name": "🚀无邪┃饭太硬备用",
-      "url": "http://fty.888484.xyz/tv"
-    },
-    {
-      "name": "GitHub·YGBH·vip2",
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/guot55/YGBH/main/vip2.json"
-    },
-    {
-      "name": "🚀王二小线",
-      "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/"
-    },
-    {
-      "name": "💎无邪┃王二小线路",
-      "url": "http://tvbox.王二小放牛娃.top"
-    },
-    {
-      "name": "GitHub·1024·jsm",
-      "url": "https://g.3344550.xyz/https://raw.githubusercontent.com/jigedos/1024/master/jsm.json"
-    },
-    {
-      "name": "🚀游魂┃驸马",
-      "url": "https://www.iyouhun.com/tv/fuma"
-    },
-    {
-      "name": "雷霆📚在线",
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/lemj.json"
-    },
-    {
-      "name": "GitHub·tvbox·yw",
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/yw88075/tvbox/main/yw.json"
-    },
-    {
-      "name": "💎无邪┃分享者线路",
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/maoystv/6/main/001.json"
-    },
-    {
-      "name": "GitHub·TVBox·XC",
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"
-    },
-    {
-      "name": "🚀游魂┃菜妮丝",
-      "url": "https://www.iyouhun.com/tv/lns"
-    },
-    {
-      "name": "黄金📚在线",
-      "url": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/hjys.free.json"
-    },
-    {
-      "name": "💎无邪┃老刘备线路",
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/liu673cn/box/main/m.json"
     },
     {
       "name": "🚀俊佬在线",
       "url": "http://home.jundie.top:81/top98.json"
     },
     {
-      "name": "请勿贩卖📚在线",
-      "url": "http://zhangqun1818.serv00.net/zq/api.json"
+      "name": "aowu·多仓",
+      "url": "https://9763.kstore.vip/aowu.json"
     },
     {
-      "name": "VIP📚在线",
-      "url": "https://jiekou.netlify.app/svip.json"
+      "name": "青龙",
+      "url": "https://6758.kstore.space/1.json"
     },
     {
-      "name": "box",
-      "url": "https://box.iqinu.com/"
+      "name": "📛挺好分享",
+      "url": "https://ztha.top/TVBox/thdjk.json"
     },
     {
-      "name": "🚀无邪┃肥猫备用（失效）",
-      "url": "http://hello.xn--z7x900a.net/"
+      "name": "月光宝盒",
+      "url": "https://jihulab.com/ygbh1/box/-/raw/main/月光宝盒"
     },
     {
-      "name": "cdn·heroaku_dtes",
-      "url": "https://cdn.githubraw.com/xuexuguang/tvbox_spider/main/tv/kk/heroaku_dtes.json"
+      "name": "newwex·多仓",
+      "url": "https://9280.kstore.vip/newwex.json"
     },
     {
-      "name": "饭太硬3",
-      "url": "http://www.xn--sss604efuw.art/tv"
+      "name": "wex·9280",
+      "url": "https://9280.kstore.space/wex.json"
     },
     {
-      "name": "盒子迷",
-      "url": "https://xn--i8sz35d1yr.top/禁止贩卖"
+      "name": "💖老刘备〔多条线路〕",
+      "url": "https://raw.liucn.cc/box/m.json"
+    },
+    {
+      "name": "dxawi",
+      "url": "https://dxawi.github.io/0/0.json"
+    },
+    {
+      "name": "🚀王二小线",
+      "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/"
+    },
+    {
+      "name": "kjsc0310·jk9",
+      "url": "https://kjsc0310.github.io/tvy/jk9.json"
     },
     {
       "name": "微动漫",
       "url": "http://550.3vcn.work/wdjyys.json"
     },
     {
-      "name": "传说📚在线",
-      "url": "http://tjf1100.serv00.net/"
+      "name": "小米",
+      "url": "https://play.iptv365.org/小米/api.json"
     },
     {
       "name": "🚀分享者线",
@@ -413,16 +65,12 @@
       "url": "http://hb.xn--yet24tmq1a.site:25252/仅供测试"
     },
     {
-      "name": "小虎斑📚在线",
-      "url": "http://hb.小虎斑.site:25252/仅供测试"
+      "name": "欧歌",
+      "url": "https://play.iptv365.org/欧歌/api.json"
     },
     {
-      "name": "流萤·index",
+      "name": "流萤·多仓",
       "url": "https://android.lushunming.qzz.io/json/index.json"
-    },
-    {
-      "name": "GitHub·gao·js",
-      "url": "https://ghproxy.net/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"
     }
   ]
 }
